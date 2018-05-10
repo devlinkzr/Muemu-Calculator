@@ -7,4 +7,4 @@ Calculadora de index dos items compatível com Muemu
 
 # Print
 * http://prntscr.com/jfzflq
-* http://prntscr.com/jfzfpie
+* http://prntscr.com/jfzfpi
