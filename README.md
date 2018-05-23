@@ -8,3 +8,6 @@ Calculadora de index dos items compatível com Muemu
 # Print
 * http://prntscr.com/jfzflq
 * http://prntscr.com/jfzfpi
+
+# Download for PerfectZone
+* https://goo.gl/y8VmCb
